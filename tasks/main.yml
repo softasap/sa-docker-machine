@@ -1,0 +1,4 @@
+---
+# tasks file for sa-docker-machine
+
+- include: tasks_docker_machine.yml
