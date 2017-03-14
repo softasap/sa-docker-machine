@@ -1,2 +1,5 @@
 ---
 # defaults file for sa-docker-machine
+
+docker_machine_dir: /opt/docker
+docker_machine_version: "0.10.0"
